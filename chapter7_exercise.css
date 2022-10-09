@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mv{
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  padding: 20px;
+}
+
+h1{
+  color: #808080;
+}
+
+main{
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog1{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #C0C0C0;
+}
+
+.blog2{
+  padding: 30px 0;
+  border-bottom: 1px solid #C0C0C0;
+}
+
+.blog3{
+  padding: 30px 0;
+  border-bottom: 1px solid #C0C0C0;
+}
+
+.blog4{
+  padding: 30px 0;
+  border-bottom: 1px solid #C0C0C0;
+}
